@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-saydjari&hide=jupyter%20notebook&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=andrew-saydjari.andrew-saydjari)
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=andrew-saydjari.andrew-saydjari" />
