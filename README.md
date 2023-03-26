@@ -8,7 +8,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-saydjari&hide=jupyter%20notebook&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-saydjari&show_icons=true&theme=dark) -->
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=andrew-saydjari.andrew-saydjari" />
-
 
 
