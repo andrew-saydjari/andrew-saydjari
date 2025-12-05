@@ -5,9 +5,7 @@
 - 📙 Here is a copy of my [CV](https://andrew-saydjari.github.io/files/CV_saydjari.pdf).
 - 📃 My publications can be found on [ADS](https://ui.adsabs.harvard.edu/search/filter_doctype_facet_hier_fq_doctype=AND&filter_doctype_facet_hier_fq_doctype=doctype_facet_hier%3A%220%2FArticle%22&fq=%7B!type%3Daqp%20v%3D%24fq_doctype%7D&fq_doctype=(doctype_facet_hier%3A%220%2FArticle%22)&p_=0&q=%20author%3A%22saydjari%2C%20andrew%22&sort=date%20desc%2C%20bibcode%20desc).
 
-[![Top Langs](https://github-readme-stats-saydjari-git-main-andrew-saydjaris-projects.vercel.app/api/top-langs/?username=andrew-saydjari&hide=jupyter%20notebook&layout=compact&theme=dark)](https://github.com/andrew-saydjari/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats-saydjari.vercel.app/api/top-langs/?username=andrew-saydjari&hide=jupyter%20notebook&layout=compact&theme=dark)](https://github.com/andrew-saydjari/github-readme-stats)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-saydjari&show_icons=true&theme=dark) -->
 
